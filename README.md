@@ -2,7 +2,7 @@
 
 
 
-Personal Site: https://mrnico98.wordpress.com/
+Sito personale: https://mrnico98.wordpress.com/
 
 Per Conttatarmi: <a href="https://t.me/mrnico98" target="_blank"><img src="https://internetwithoutborders.org/wp-content/uploads/2018/04/telegram-1-1170x365.jpg" alt="DM" height="50" width="174"></a>
 
