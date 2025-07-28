@@ -1,11 +1,16 @@
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MrNico98&show_icons=true&theme=merko)
+# Hi there, I'm Nico! 👋
 
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MrNico98&show_icons=true&theme=merko&hide_border=true)](https://github.com/MrNico98)
 
+Passionate developer exploring new technologies and building cool projects.
 
+## 🌟 About Me
+- 💻 Full-stack developer
+- 🚀 Open-source enthusiast
+- 📚 Constant learner
 
-Per Conttatarmi: <a href="https://t.me/mrnico98" target="_blank"><img src="https://internetwithoutborders.org/wp-content/uploads/2018/04/telegram-1-1170x365.jpg" alt="DM" height="50" width="174"></a>
+## 📫 Get in Touch
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/mrnico98)
 
-Per sostenermi lanciami un ko-fi: 
-<a href="https://ko-fi.com/winhubx" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftheme.zdassets.com%2Ftheme_assets%2F2141020%2F171bb773b32c4a72bcc2edfee4d01cbc00d8a004.png&f=1&nofb=1&ipt=fe86bcf46af3004f537ae8d8e050a0bb55beec08cc7564f3897c99b1fa43d72e&ipo=images" height="150" width="174"></a>
-
-
+## ☕ Support My Work
+[![Buy Me a Coffee](https://img.shields.io/badge/Ko--fi-Support%20Me-orange?style=for-the-badge&logo=kofi)](https://ko-fi.com/winhubx)
