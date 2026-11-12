@@ -1,6 +1,6 @@
 # Hi there, I'm Nico! 👋
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MrNico98&show_icons=true&theme=merko&hide_border=true)](https://github.com/MrNico98)
+[[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MrNico98&show_icons=true&theme=merko&hide_border=true)](https://github.com/MrNico98)](https://github-readme-stats-sigma-five.vercel.app/api?username=MrNico98&show_icons=true&theme=merko&hide_border=true)
 
 Passionate developer exploring new technologies and building cool projects.
 
